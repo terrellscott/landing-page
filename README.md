@@ -1,9 +1,16 @@
 # Landing Page Project
 
-## Instructions
+This project shows that I am able to manipulate the DOM using JS.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## Languages Used
 
-To get started, open `js/app.js` and start building out the app's functionality
+-HTML
+-CSS
+-JAVASCRIPT
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+## Tasks completed
+
+-The createNav() dunction appends a unordered list that creates a navigation bar. Also, it adds an onHover effect using the mouseover and mouseout eventListeners.
+-the activeSection() function adds an active class to the section in the viewport, as well as highlights the active link in the nav bar. It also removes the class upon leaving the viewport. 
+-Added an on click eventListener to the nav links that begins a scrollIntoView function with the smooth behavior.
+-Finally, centered the nav bar to improve the look of the page when viewed on mobile devices.
