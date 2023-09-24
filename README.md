@@ -5,7 +5,7 @@ This project shows that I am able to manipulate the DOM using JS.
 ## Languages Used
 
 - HTML
- -CSS
+- CSS
 - JAVASCRIPT
 
 ## Tasks completed
