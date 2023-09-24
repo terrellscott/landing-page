@@ -10,7 +10,7 @@ This project shows that I am able to manipulate the DOM using JS.
 
 ## Tasks completed
 
-- The createNav() dunction appends a unordered list that creates a navigation bar. Also, it adds an onHover effect using the mouseover and mouseout eventListeners.
+- The createNav() function appends a unordered list that creates a navigation bar. Also, it adds an onHover effect using the mouseover and mouseout eventListeners.
 
 - the activeSection() function adds an active class to the section in the viewport, as well as highlights the active link in the nav bar. It also removes the class upon leaving the viewport. 
 
